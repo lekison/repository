@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "344335280402",
+    "project_id": "wifi-application-519f7",
+    "storage_bucket": "wifi-application-519f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:344335280402:android:40be0097085bb4c2aa2bcb",
+        "android_client_info": {
+          "package_name": "com.example.package_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQf9zWRIjtiUpLjDbVA366LohSmSrg0gg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
